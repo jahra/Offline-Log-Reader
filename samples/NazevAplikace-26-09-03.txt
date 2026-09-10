@@ -1,0 +1,12 @@
+03.09.2026 21:49:33 - [INFO] - [R-FP] - Starting publish file
+03.09.2026 21:49:33 - [INFO] - [R-D-57] - Downloader with id 57 has successfully downloaded a valid list
+03.09.2026 21:49:33 - [INFO] - [R-FP] - File car_webexport_sid6.txt published
+03.09.2026 21:49:33 - [INFO] - [H] - File f32fa52aa6c8.txt has been saved.
+03.09.2026 21:49:35 - [INFO] - [R-D-5] - DownloaderAdvert: AdvertDownloader has successfully downloaded and parsed
+03.09.2026 21:49:36 - [WARNING] - [R-D-5] - Download is taking longer than expected
+03.09.2026 21:49:37 - [ERROR] - [R-D-5] - Download failed: spojení přerušeno
+System.IO.IOException: Connection was closed
+   at Downloader.Worker.Run() in Worker.cs:line 42
+   at Downloader.Program.Main() in Program.cs:line 12
+03.09.2026 21:49:38 - [INFO] - [R-D-5] - Retrying download
+
